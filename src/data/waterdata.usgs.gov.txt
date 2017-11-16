@@ -1,0 +1,49 @@
+#
+#
+# US Geological Survey, Water Resources Data
+# retrieved: 2017-11-15 23:30:06 EST      (sdww01)
+#
+# This file contains USGS Groundwater-Level Annual Statistics
+#
+# Note:The statistics generated from  this site are based on approved daily-mean data and may not match those published by the USGS in official publications.
+# The user is responsible for assessment and use of statistics from this site.
+# For more details on why the statistics may not match, visit https://waterdata.usgs.gov/nwis/?dv_statistics_disclaimer.
+#
+# ** No Incomplete data have been used for statistical calculation
+#
+# This file includes the following columns:
+#
+#
+# agency_cd  agency code
+# site_no    USGS site number
+# parameter_cd
+# ts_id
+# year_nu    Water year for value
+# mean_va    annual-mean value.
+#             if there is not complete record
+#             for a year this field is blank
+#
+#
+# Sites in this file include:
+# USGS 382323104200701 SC01906221AAA  DROUGHT WELL NEAR PUEBLO, CO
+# 
+# Explanation of Parameter Code and ts_id used in the Statistics Data 
+# parameter_cd	Parameter Name					ts_id	Location Name
+# 72019		Depth to water level, feet below land surface		20012	
+#
+#
+agency_cd	site_no	parameter_cd	ts_id	year_nu	mean_va
+5s	15s	5s	3n	4s	12n
+USGS	382323104200701	72019	20012	2004	20.305
+USGS	382323104200701	72019	20012	2005	20.237
+USGS	382323104200701	72019	20012	2006	20.359
+USGS	382323104200701	72019	20012	2007	20.258
+USGS	382323104200701	72019	20012	2008	20.492
+USGS	382323104200701	72019	20012	2009	20.566
+USGS	382323104200701	72019	20012	2010	20.645
+USGS	382323104200701	72019	20012	2011	20.877
+USGS	382323104200701	72019	20012	2012	20.934
+USGS	382323104200701	72019	20012	2013	21.082
+USGS	382323104200701	72019	20012	2014	21.075
+USGS	382323104200701	72019	20012	2016	21.317
+
